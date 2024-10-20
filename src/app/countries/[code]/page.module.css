@@ -1,0 +1,29 @@
+.borders {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+.country_name {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.header {
+  padding: 20px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.borders_container,
+.population_container {
+  padding: 20px;
+}
+
+.borders_title,
+.population_title {
+  font-size: 24px;
+  font-weight: 700;
+}

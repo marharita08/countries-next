@@ -1,0 +1,17 @@
+.country {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 10px;
+  width: 300px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card_country_name {
+  color: black;
+  text-decoration: none;
+}
+
+.card_country_name:hover {
+  color: rgba(75, 192, 192, 1);
+}
