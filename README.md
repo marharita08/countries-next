@@ -24,12 +24,12 @@ This application displays data about countries.
 
 3. Start the frontend development server:
 
-   `npm start`
+   `npm run dev`
 
 ## Usage
 
 1. Set up backend part of application by [link](https://github.com/marharita08/countries-nest).
 2. Start both the frontend and backend servers.
-3. Open the application in your browser at `http://localhost:3000`.
+3. Open the application in your browser at `http://localhost:3000/countries`.
 4. Browse the country data!
    

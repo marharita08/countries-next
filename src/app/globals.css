@@ -1,6 +1,18 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --transparent-black-10: #0000001a;
+  --white: #ffffff;
+  --black: #000000;
+  --teal: #4bc0c0;
+  --error-red: #ff4d4d;
+  --light-error: #ffe6e6;
+  --dark-red: #d60000;
+  --dark-gray: #333333;
+  --medium-gray: #cccccc;
+  --light-gray: #fafbfc;
+  --transparent-teal-10: #4bc0c01a;
+  --gray-background: #e8e9eb;
 }
 
 @media (prefers-color-scheme: dark) {
